@@ -58,6 +58,6 @@ The major content is based on Kubernetes Tutorial For Beginners [Full Course] by
 
 ![](/images/img-024.jpeg)
 
-## Mac os minikube service assign
+## MacOs Minikube Service Assign
 
 To assign minikube tunnel to external address, check this issue for [MacOS](https://github.com/kubernetes/minikube/issues/14039)
