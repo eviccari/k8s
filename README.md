@@ -1,8 +1,8 @@
-# Kubernetes configuration files
+# Kubernetes Project Configuration Files
 
 ## Objective
 
-Create some configuration files to learn about kubernetes and provide starting points for new projects
+Create some configuration files to learn about kubernetes and provide starting points for new projects.
 
 ## References
 
