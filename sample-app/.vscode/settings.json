@@ -1,3 +1,9 @@
 {
-  "cSpell.words": ["configmap", "INITDB", "minikube"]
+  "cSpell.words": [
+    "ADMINPASSWORD",
+    "ADMINUSERNAME",
+    "configmap",
+    "INITDB",
+    "minikube"
+  ]
 }
